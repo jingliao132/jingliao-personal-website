@@ -4,7 +4,7 @@ I am the Ph.D candidate of Digital Art and Design at the college of Computer Sci
 ## Education
 - Singapore University of Technology and Design (SUTD), **Visiting Fellow & Teaching Assist**, Dec 2018 - Dec 2019
 - Zhejiang University (ZJU), **Ph.D candidate of Digital Art and Design**, Sept 2016 - present
-- South China University of Technology (SCUT), **Bachelor of Computer Science and Technology**, Sept 2013 - June 2016
+- South China University of Technology (SCUT), **Bachelor of Computer Science and Technology**, Sept 2013 - June 2016 (graduation-ahead)
 
 ## Research
 
@@ -20,8 +20,8 @@ Intelligent Design Tools, Design Creativity, Machine Learning
 - The 15th International Conference on Machine Learning and Cybernetics (ICMLC), Jeju, Korea, 2016
 
 ### Projects
-- [AI and Design Inspiration](https://github.com/jingliao132/ThoughtRender)(Ongoing)
-- [Computational Supports for Data-driven Business Design](https://github.com/jingliao132/Busiwatch)(Ongoing)
+- [AI and Design Inspiration](https://github.com/jingliao132/ThoughtRender) (Ongoing)
+- [Computational Supports for Data-driven Business Design](https://github.com/jingliao132/Busiwatch) (Ongoing)
 - Interactive Design Tools (2016 - 2017)
 - Undersampling Method for Pattern Recognition in Non-stationary Environment (2015 - 2016)
 
