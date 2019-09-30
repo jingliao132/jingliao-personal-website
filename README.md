@@ -14,18 +14,18 @@ Human-Computer Interaction, Computer-Aided Design
 ### Interests
 Intelligent Design Tools, Design Creativity, Machine Learning
 
-## Conference Activity
+### Conference Activity
 - The 20th International Conference on Human-Computer Interaction (HCII), Las Vegas, USA, 2018
 - The 1st Smart Products Through-Life Design Theories, Methods and Tools, Xian, China, 2018
 - The 15th International Conference on Machine Learning and Cybernetics (ICMLC), Jeju, Korea, 2016
 
-## Projects
+### Projects
 - [AI and Design Inspiration](https://github.com/jingliao132/ThoughtRender)(Ongoing)
 - [Computational Supports for Data-driven Business Design](https://github.com/jingliao132/Busiwatch)(Ongoing)
 - Interactive Design Tools (2016 - 2017)
 - Undersampling Method for Pattern Recognition in Non-stationary Environment (2015 - 2016)
 
-## Publications
+### Publications
 - Chai, C., Liao, J., Zou, N., & Sun, L. (2018). A one-to-many conditional generative adversarial network framework for multiple image-to-image translations. _Multimedia Tools & Applications_, 1-28.
 - Liao, J., Lou, J., Wu, Q., Zou, M., & Zheng, L. (2018). A Review of Age-Related Characteristics for Touch-Based Performance and Experience. _International Conference on Human Aspects of IT for the Aged Population_ (pp.279-296). Springer, Cham.
 - Liao, J., Zhang, J., & Ng, W. W. Y. (2017). Effects of different base classifiers to Learn++ family algorithms for concept drifting and imbalanced pattern classification problems. _International Conference on Machine Learning and Cybernetics_ (pp.99-104). IEEE.
